@@ -14,3 +14,8 @@ Los proyectos de este repositorio utilizan:
 - Comunicación punto a punto
 - Comunicación colectiva
 - Directivas
+
+El primer proyecto hace una agrupación de clustering con DBSCAN.
+El segundo hace conteo de palabras de diferentes libros de manera simultánea.
+El examen hace clasificación de clientes igualmente con hilos.
+Todos tienen una versión serial y paralela.
